@@ -224,7 +224,7 @@ Name the report as `Task4_Report.pdf` and put it under the root folder of your s
 ## Assignment 1 Submission
 
 - You are required to submit your assignment to [Canvas](https://canvas.ust.hk/courses/54699/assignments).
-- Please put all your code, screenshots, readme, and so on into a single folder and compress it to `comp5111asn1.zip`
+- Please put all your code, screenshots, readme, and so on into a single folder and compress it to `comp5111asn1-YourStudentID-YourLastName-YourFirstName.zip`
 
 **The *recommended* folder structure is:**
 
